@@ -1,3 +1,36 @@
+## Things to showcase
+
+Standardization tools
+- [ ] ESLint
+- [ ] JSDoc
+- [ ] stylelint
+
+Compilation modules 
+- [ ] Gulp
+- [ ] webpack
+- [ ] Parcel
+- [ ] Babel
+
+Proficiency
+- [ ] HTML5
+- [ ] SCSS
+- [ ] JavaScript ES6+
+- [ ] Git Version Manager
+- [ ] Bootstrap
+
+Agile development environment
+- [ ] SCRUM
+- [ ] Kanban
+
+Fluent in both French and English
+- [ ] Lang switcher
+
+The principles of programming
+- [ ] SOLID
+- [ ] MVC
+- [ ] OOP with JavaScript
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
