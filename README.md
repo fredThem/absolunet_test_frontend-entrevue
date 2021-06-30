@@ -121,9 +121,9 @@ Used https://browserl.ist to see the browsers supported by your configured brows
     <summary>
     configured browserslist
 
-  ```bash
-  npx browserslist "last 1 version, >1%"
-  ```
+```bash
+npx browserslist "last 1 version, >1%"
+```
 
     </summary>
 
