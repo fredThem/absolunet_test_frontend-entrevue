@@ -101,3 +101,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---- 
+
+### [Configuring Supported Browsers](https://create-react-app.dev/docs/supported-browsers-features#configuring-supported-browsers)
+Used https://browserl.ist to see the browsers supported by your configured browserslist.
+<details>
+  <summary>
+    ```
+    npx browserslist "last 1 version, >1%"
+    ```
+  </summary>
+    ```
+    and_chr 88
+    and_ff 85
+    and_qq 10.4
+    and_uc 12.12
+    android 81
+    baidu 7.12
+    bb 10
+    chrome 88
+    chrome 87
+    edge 88
+    edge 87
+    firefox 85
+    firefox 84
+    ie 11
+    ie_mob 11
+    ios_saf 14.0-14.4
+    ios_saf 13.4-13.7
+    kaios 2.5
+    op_mini all
+    op_mob 59
+    opera 73
+    safari 14
+    samsung 13.0
+    ```
+</details>
