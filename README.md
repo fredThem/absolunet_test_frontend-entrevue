@@ -18,14 +18,14 @@ Compilation modules
 - [ ] Gulp
 - [ ] webpack
 - [ ] Parcel
-- [ ] Babel
+- [x] Babel
 
 Proficiency
 
 - [ ] HTML5
 - [ ] SCSS
 - [ ] JavaScript ES6+
-- [ ] Git Version Manager
+- [x] Git Version Manager
 - [ ] Bootstrap
 
 Agile development environment
@@ -163,3 +163,12 @@ samsung 13.0
   </details>
 
 #### Debugging in the Editor [#](https://create-react-app.dev/docs/setting-up-your-editor#debugging-in-the-editor)
+
+
+#### stylelint [#](https://stylelint.io/user-guide/get-started)
+```
+ npx stylelint "**/*.{css,scss,sass}" 
+ 
+ //options
+    // --fix
+ ```
