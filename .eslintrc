@@ -2,15 +2,14 @@
   "root": true,
   "env": {
     "es6": true,
-    "browser": true
+    "browser": true,
+    "jest": true
   },
   "parser": "@babel/eslint-parser",
   "parserOptions": {
     "requireConfigFile": false
   },
-  "extends": [
-    "airbnb"
-  ],
+  "extends": ["airbnb"],
   "rules": {
     "class-methods-use-this": "off",
     "comma-dangle": "off",
