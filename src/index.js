@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import '@fontsource/dokdo';
+import '@fontsource/atomic-age';
+import '@fontsource/roboto';
 
 ReactDOM.render(
   <React.StrictMode>
