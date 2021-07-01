@@ -77,8 +77,6 @@ export default function HideAppBar(props) {
                 <Typography
                   variant="subtitle2"
                   component="span"
-                  // fontFamily="Roboto"
-                  color="red"
                 >
                   by Frédéric Desmarais
                 </Typography>
