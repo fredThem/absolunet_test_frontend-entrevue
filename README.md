@@ -16,7 +16,7 @@ Standardization tools
 Compilation modules
 
 - [ ] Gulp
-- [ ] webpack
+- [x] webpack
 - [ ] Parcel
 - [x] Babel
 
