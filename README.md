@@ -171,4 +171,15 @@ samsung 13.0
  
  //options
     // --fix
+
  ```
+
+
+ #### TDD
+
+Creterias for a good test
+
+- **R** eadable
+- **I** solated
+- **T** horough
+- **E** xplicit
